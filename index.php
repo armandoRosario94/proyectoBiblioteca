@@ -171,7 +171,7 @@
 </section>
   <footer  id="idFooter"><!--LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLInicia el PieLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL-->
     <p> Privacidad Términos y Condiciones @2017 BIBLIOCLIC </p>
-    <p> Desarrolladores: Lic. Heydi Ramirez & Lic. Jose Armando Rosario </p> 
+    <p> Desarrolladores: Lic. Heydi Ramirez Cortéss & Lic. Jose Armando Rosario Pacheco </p> 
     <p> Biblioclic al alcance de tus manos, consulta de libros, cd´s, revistas, etc... </p>   
     </p> Contáctanos: <a href="mailto:someone@example.com"> biblioclic@biblioclic.com</a> </p>
   </footer> <!--LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLTermina el PieLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL-->    
