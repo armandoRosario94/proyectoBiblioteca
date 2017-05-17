@@ -1,0 +1,16 @@
+#idDivImagenPerfil {
+  height: 250px;
+  width: 45%;
+  margin-top: 5%;
+  border-left: 5px solid white;
+  border-right: 5px solid white;
+  border-bottom:  5px solid white;
+  border-top:  5px solid white;
+  margin-left: 30%;
+  border-radius: 5px;
+  background-image: url("../imagenes/fotoPerfilUsuarioDefault.png");
+  background-repeat: no-repeat;
+  background-position: center; 
+  float: left; /*Comprime el div de acuerdo al texto y a la direccion dada*/
+ clear: left;
+}

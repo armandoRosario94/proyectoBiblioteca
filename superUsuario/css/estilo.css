@@ -1,0 +1,85 @@
+body {
+  max-width: 100%;
+  min-width: 50%;
+}
+
+header{
+	background: white;
+	color: #fff;
+	
+}
+.center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+aside {
+	background: white;
+	color: #fff;
+}
+footer {
+	background: #16a085;
+	color: #fff;
+  max-width: 100%;
+  min-width: 50%;
+}
+
+#btne1{
+  	display: inline-block;
+    width: 250%;
+    height: 150%;
+    border:1px solid  #DBE1EB;
+    text-align: center;
+    background-image: url('../img/viaje.jpg');
+    background-size: 100% 100%;
+    background-color: white;
+    background-repeat: no-repeat;
+    color:teal;
+   
+}
+#idColorIconoBarra{
+    color: #FDFEFE;
+}
+ #idColordeBarra{
+ 	background-color: #FF9F33;
+ 	margin: 0px;
+	text-align: center;
+	border: 0px;
+    border-radius: 0px;
+
+ }
+ #idColorLetraBarra{
+    color: #FDFEFE;
+    font-size: 1.2em;
+ }
+ #idLetraSesionModal{
+    color:#0B2777;
+     font-size: 1.5em;
+ }
+ #idFooter {
+    background-color: #1B2631;
+    text-align: center;
+    font-size: 0.8em;
+     height: 125px;
+ }
+ #idComboRolUsuario{
+    color:black;
+ }
+ #idcolorLetraModal {
+   color:black;
+ }
+ .footer-fix{
+  height: 100px;
+ }
+ #colorFondo {
+  background-color: #F5B041;
+ }
+ #idEspacioSection {
+  margin-top:1%;
+ }
+ #idCambioColorPanel{
+  background-color:#1ABC9C;
+ } 
+#idLetraRegistrar{
+  color: white;
+}
+
